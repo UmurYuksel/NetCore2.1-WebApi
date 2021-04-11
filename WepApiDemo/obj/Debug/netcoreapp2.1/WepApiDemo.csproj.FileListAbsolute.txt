@@ -1,0 +1,14 @@
+D:\.NET CORE APPS\WepApiDemo\WepApiDemo\bin\Debug\netcoreapp2.1\WepApiDemo.deps.json
+D:\.NET CORE APPS\WepApiDemo\WepApiDemo\bin\Debug\netcoreapp2.1\WepApiDemo.runtimeconfig.json
+D:\.NET CORE APPS\WepApiDemo\WepApiDemo\bin\Debug\netcoreapp2.1\WepApiDemo.runtimeconfig.dev.json
+D:\.NET CORE APPS\WepApiDemo\WepApiDemo\bin\Debug\netcoreapp2.1\WepApiDemo.dll
+D:\.NET CORE APPS\WepApiDemo\WepApiDemo\bin\Debug\netcoreapp2.1\WepApiDemo.pdb
+D:\.NET CORE APPS\WepApiDemo\WepApiDemo\obj\Debug\netcoreapp2.1\WepApiDemo.csprojAssemblyReference.cache
+D:\.NET CORE APPS\WepApiDemo\WepApiDemo\obj\Debug\netcoreapp2.1\WepApiDemo.csproj.CoreCompileInputs.cache
+D:\.NET CORE APPS\WepApiDemo\WepApiDemo\obj\Debug\netcoreapp2.1\WepApiDemo.RazorAssemblyInfo.cache
+D:\.NET CORE APPS\WepApiDemo\WepApiDemo\obj\Debug\netcoreapp2.1\WepApiDemo.RazorAssemblyInfo.cs
+D:\.NET CORE APPS\WepApiDemo\WepApiDemo\obj\Debug\netcoreapp2.1\WepApiDemo.AssemblyInfoInputs.cache
+D:\.NET CORE APPS\WepApiDemo\WepApiDemo\obj\Debug\netcoreapp2.1\WepApiDemo.AssemblyInfo.cs
+D:\.NET CORE APPS\WepApiDemo\WepApiDemo\obj\Debug\netcoreapp2.1\WepApiDemo.RazorTargetAssemblyInfo.cache
+D:\.NET CORE APPS\WepApiDemo\WepApiDemo\obj\Debug\netcoreapp2.1\WepApiDemo.dll
+D:\.NET CORE APPS\WepApiDemo\WepApiDemo\obj\Debug\netcoreapp2.1\WepApiDemo.pdb
